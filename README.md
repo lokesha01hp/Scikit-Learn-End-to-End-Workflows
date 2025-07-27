@@ -8,7 +8,7 @@
 
 ## What’s inside
 
-This repo contains **6 practical workflows**, demonstrating:
+This repo contains **7 practical workflows**, demonstrating:
 
 1️⃣ **Getting data ready**  
 2️⃣ **Picking the right model for your problem**  
