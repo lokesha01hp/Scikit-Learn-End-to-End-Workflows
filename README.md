@@ -16,7 +16,7 @@ This repo contains **7 practical workflows**, demonstrating:
 4️⃣ **Evaluating the model**  
 5️⃣ **Improving through experimentation**  
 6️⃣ **Saving & reloading your model**  
-7️⃣ **Putting all together(optional)**
+7️⃣ **Putting all together(optional) - Pipeline Method**
 
 Each workflow contains **explanations + executable Python code** to understand and apply each step systematically.
 
