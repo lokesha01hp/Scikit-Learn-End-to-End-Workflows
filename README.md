@@ -6,7 +6,7 @@
 
 ---
 
-## What’s inside
+## What’s Inside the Repos
 
 This repo contains **7 practical workflows**, demonstrating:
 
