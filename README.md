@@ -18,6 +18,6 @@ This repo contains **7 practical workflows**, demonstrating:
 6️⃣ **Saving & reloading your model**  
 7️⃣ **Putting all together(optional) - Pipeline Method**
 
-Each workflow contains **explanations + executable Python code** to understand and apply each step systematically.
+Each workflow contains explanations and executable Python code to understand and apply each step systematically.
 
 ---
